@@ -86,5 +86,7 @@ Bu projeyi kendi ortamınızda çalıştırmak için:
    ```
 
 ---
-*Geliştirici:* **[Yiğit Eren ALP]**  
+👨‍💻 **Geliştirici Notu:** Bu proje, İletişim Yazılım Staj programı kapsamında oluşturulmuş olup, uçtan uca modern mimari prensipleriyle geliştirilmiştir.
+
+*Geliştirici:* **Yiğit Eren ALP**  
 *Tarih:* 2026
